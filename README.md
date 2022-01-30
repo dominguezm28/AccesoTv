@@ -1,2 +1,0 @@
-# AccesoTv
-LISTAM3U
